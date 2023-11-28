@@ -1,52 +1,31 @@
 ---
-title: Our Coffee
+title: Our Kids ? | 我們能夠提供什麼
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
-  description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+  heading: 我們的產品
+  description: >
+    我們希望給你獨一無二的委託享受！ 在Hippo
+    的世界裡，每一場案件都會被視為一場完全不同且極具重要的委託，就如同我們一直以來的核心價值：「你的想像，我們實現！」
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        爬蟲很夯？｜ Python Script 
+
+        各行各業中，難免有時會遇到會需要使用到爬蟲來去抓取別人網站的時候，而自己寫得爬蟲常常爬出一堆看不懂的東西出來，光是整理資料就花了半天，也就失去爬蟲開發的意義了！這個時候，你可以把你的需求交給我們，我們有專業團隊可以幫助你縮短整理時間，讓你專心在你的資料上就好！
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: |-
+        OpenCV 還是影像辨識｜OpenCV with Python Integration Service
+        我們給這個專案一個很可愛的名字：SOFA NEED EYES
+
+        非常的字面上的意思，你只需要坐在沙發上，剩下的，交給程式做分析就好！
+        就是這麼簡單！ 你會碰到的大概也就是安裝他而已了！
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 我們讓程式不單單只是一個被動思考的工具
+  description: 我們始終相信，你需要的並非是一個單單會被動協助你的工具，更多的是他能夠主動思考，主動提出解決方案，成為你在事業打拼上的最佳夥伴！
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Try 2 think twice
+    image: img/about-sustainable-farming.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
@@ -54,43 +33,31 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: 余右丞  (Hippo Solutions 首席開發工程師)
+    quote: Try to Think Twice!
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: 價格｜Pricing
+  description: " (以下價格均為預估金額，請依照報價單為主)       當然我們都不愛談這個！但我們認為有必要來先談談這個！先談價格，才能讓你控制成本對吧？"
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Flask 專案評估以及開發，不含託管（Flask Webframework D1）
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Flask前期專案評估以及藍圖規劃
+        - Python整合式資料分析及開發
+        - 協助客戶導入至客戶指定之平台商
+      plan: Python Flask專案評估及開發
+      price: 25,000
+    - description: OpenCV專案評估及開發（13,000元整起）
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 室內/外影像辨識及評估
+        - 影像像素計算
+        - 圖表報表分析及預測（須額外加購）
+        - 其他
+      plan: OPENCV 開發及評估規劃
+      price: 13,000
+    - description: 上面都沒有你需要的？
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - 那你真的該與我們聯繫，也許會有意想不到的結果！
+      plan: 以上都沒有我要的！
+      price: WAITING4YOU
 ---
-
-
