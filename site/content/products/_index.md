@@ -59,5 +59,5 @@ pricing:
       items:
         - 那你真的該與我們聯繫，也許會有意想不到的結果！
       plan: 以上都沒有我要的！
-      price: WAITING4YOU
+      price: "?"
 ---
