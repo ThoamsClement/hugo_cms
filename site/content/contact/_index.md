@@ -11,7 +11,7 @@ contact_entries:
   - heading: E-mail
     text: hippoworld7@gmail.com
 ---
-## 我們期待每一次與你的聯繫
+# **我們非常期待每次的合作**
 
 ### 這裡是我們的主頁，也是你第一次與我們聯繫的地方！
 
